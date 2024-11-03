@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Muhammad Ali # your name (or website title) here
+logo: "/images/Portfolio_img.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  With a strong foundation in data science, machine learning, and analytics, I leverage data to drive insights,
+  inform decisions, and create impactful solutions. My academic background in computing and data science, 
+  complemented by hands-on experience with tools like Power BI, SQL, and Python, 
+  allows me to turn complex data into actionable strategies. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/muhammad-ali-055626288/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
