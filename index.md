@@ -6,7 +6,7 @@
 <img src="images/Plant_D.webp?raw=true"/>
 
 ---
-[PSpam Email Detection](https://colab.research.google.com/drive/1HOBe49R8ncd8GlZRBMoev--b88l8yw5J)
+[Spam Email Detection](https://colab.research.google.com/drive/1HOBe49R8ncd8GlZRBMoev--b88l8yw5J)
 <img src="images/Spam_img.webp?raw=true"/>
 
 ---
