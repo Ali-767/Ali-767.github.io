@@ -10,7 +10,7 @@
 <img src="images/Spam_img.webp?raw=true"/>
 
 ---
-##Blogs
+## Blogs
 ---
 [PCA](/pdf/PCA.pdf)
 <img src="images/Spam_img.webp?raw=true"/>
