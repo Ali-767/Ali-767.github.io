@@ -10,3 +10,5 @@
 <img src="images/Spam_img.webp?raw=true"/>
 
 ---
+[Spam Email Detection](/pdf/PCA.pdf)
+<img src="images/Spam_img.webp?raw=true"/>
