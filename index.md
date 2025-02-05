@@ -12,5 +12,9 @@
 ---
 ## Blogs
 ---
-[PCA](/pdf/PCA.pdf)
+[1.PCA](/pdf/PCA.pdf)
 <img src="images/Spam_img.webp?raw=true"/>
+---
+[2.A comparitive analysis of DBSCAN and K-means.pdf](/pdf/2.A_comparitive_analysis_of_DBSCAN_and_K-means.pdf)
+<img src="images/Spam_img.webp?raw=true"/>
+---
