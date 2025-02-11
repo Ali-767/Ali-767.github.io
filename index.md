@@ -11,7 +11,7 @@
 <img src="images/Spam_img.webp?raw=true"/>
 ---
 [Student Performance Analysis](https://colab.research.google.com/drive/1WwAUDC8xhw4jh093aI-tY51wt1jSh-3N)
-<img src="images/download.png?raw=true"/>
+<img src="images/download.png?raw=false"/>
 ---
 ## Blogs
 ---
